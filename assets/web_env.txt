@@ -1,3 +1,4 @@
 SUPABASE_URL=https://vsyfbkifjmetvabpicvp.supabase.co
 SUPABASE_ANON_KEY=sb_publishable_ZTfwc36dT-VsCEcjOvg3hA_7FK0egV1
 GOOGLE_IOS_CLIENT_ID=703296109621-t7ctvacfcl1mmrrngo09ndksb6278huh.apps.googleusercontent.com
+GOOGLE_WEB_CLIENT_ID=703296109621-vubuijloatvnhr2rjh9s3v2sdrf5l830.apps.googleusercontent.com
