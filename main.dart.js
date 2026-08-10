@@ -31649,7 +31649,7 @@ return A.x($async$O_,r)},
 Wc(){var s=0,r=A.y(t.H),q,p
 var $async$Wc=A.z(function(a,b){if(a===1)return A.v(b,r)
 for(;;)switch(s){case 0:s=2
-return A.o($.a6R().EZ(".env"),$async$Wc)
+return A.o($.a6R().EZ("web_env.txt"),$async$Wc)
 case 2:q=$.a6R().gNP().i(0,"SUPABASE_URL")
 p=$.a6R().gNP().i(0,"SUPABASE_ANON_KEY")
 if(q==null||q.length===0||B.c.G(q,"your-project-ref"))throw A.f(A.a8("SUPABASE_URL is not configured. Copy .env.example to .env and fill in your Supabase project credentials."))
